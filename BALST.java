@@ -1,25 +1,9 @@
 //////////////////// ALL ASSIGNMENTS INCLUDE THIS SECTION /////////////////////
 //
 // Title: P2 BALST.javaT
-// Files: BALST.java, BALSTTest.java
-// Course: CS 400 Fall 2019
-//
 // Author: Gus kalivas
 // Email: wkalivas@wisc.edu
-// Lecturer's Name: Debra Deppeler
-//
-///////////////////////////// CREDIT OUTSIDE HELP /////////////////////////////
-//
-// Students who get help from sources other than their partner must fully
-// acknowledge and credit those sources of help here. Instructors and TAs do
-// not need to be credited here, but tutors, friends, relatives, room mates
-// strangers, etc do. If you received no outside help from either type of
-// source, then please explicitly indicate NONE.
-//
-// Persons: none
-// Online Sources: None
-//
-/////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
+
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -27,8 +11,7 @@ import java.util.List;
 
 /**
  * 
- * Class to implement a BalanceSearchTree. Can be of type AVL or Red-Black. Note
- * which tree you implement here and as a comment when you submit Implement: AVL
+ * Class to implement a BalanceSearchTree. AVL
  * Tree
  * 
  * @author guska - Gus Kalivas
